@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a PhD student at the Civic AI Lab of the University of Amsterdam.
+I am Dimitris, a PhD student at the Civic AI Lab of the University of Amsterdam.
 
 My current research focus is on using Reinforcement Learning to explore the dynamics of urban mobility, identify inequalities and design urban systems to alleviate them.
 
