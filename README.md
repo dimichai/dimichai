@@ -9,7 +9,7 @@ I am also developing [Greece in Figures](http://greeceinfigures.com/), an organi
 I used to create interactive data stories on society and culture and post them on my blog [Thousand Words](https://www.thousandwords.gr/).
 This idea has now been evolved into [100 Europeans](https://www.100europeans.org/), an organization that aims to raise awareness around the big challenges of our time by breaking them down into relatable, interactive and visual stories, in which Europe is a community of just 100 people. 100 Europeans will be presented as one of the finalists of the [EU Datathon](https://op.europa.eu/en/web/eudatathon) in Brussels this October. 
 
-You can find more information on my [website](https://dimichai.github.io/).
+You can find more information about me on my [website](https://dimichai.github.io/).
 
 <!--
 **dimichai/dimichai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
